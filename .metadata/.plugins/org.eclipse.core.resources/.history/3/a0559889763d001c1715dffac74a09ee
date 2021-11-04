@@ -1,0 +1,17 @@
+package Project2;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		BubbleSort bs = new BubbleSort();
+		
+		for (int i =0; i<bs.returnArr().length; i++) {
+			
+			System.out.println(i);
+		}
+		
+	}
+
+}
