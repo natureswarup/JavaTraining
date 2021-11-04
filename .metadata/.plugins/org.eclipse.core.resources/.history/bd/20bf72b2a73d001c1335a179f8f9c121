@@ -1,0 +1,15 @@
+package Project2;
+
+public class Q3 {
+
+	
+	public void reverseString() {
+		
+		String s = "Hello";
+		
+		System.out.println(s);
+		
+		
+		
+	}
+}

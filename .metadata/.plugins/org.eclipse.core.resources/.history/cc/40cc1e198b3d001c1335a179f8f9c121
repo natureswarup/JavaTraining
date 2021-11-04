@@ -20,20 +20,18 @@ public class BubbleSort {
 		return arr;
 	}
 	
-	// class example
-	
 	public static int[] altReturnArr() {
 		int[] myarr = {1,0,5,6,3,2,3,7,9,8,4};
 		
-		boolean sorted = true;
+		boolean sorted = false;
 		
-		do {
-			for (int i = 1; i < myarr.length-1; ++i) {
+		while (!sorted) {
+			for (int i = 1; i < myarr-1; ++i) {
 				if (!sorted(myarr[i], myarr[i-1], myarr[i+1])) {
 					swap(myarr, i, i-1);
 				}
 			}
-		} while (!sorted);
+		}
 		
 		return myarr;
 	}
@@ -42,16 +40,10 @@ public class BubbleSort {
 		return element >= leftNeighbor && element < rightNeighbor;
 	}
 	
-	static void swap(int[] array, int element_a, int element_b) {
+	static boolean swap(int[] array, int element_a, int element_b) {
 		int temp = array[element_a];
 		array[element_a] = array[element_b];
 		array[element_b] = temp;
-	}
-	
-	static void printArray(int[] array) {
-		for (int i = 0; i < array.length; ++i) {
-			System.out.println(array[i]);
-		}
 	}
 
 }

@@ -20,13 +20,9 @@ public class Driver {
 //		
 //		r.reverseString();
 		
-//		Q4 fact = new Q4();
-//		
-//		fact.factorial(10);
+		Q4 factorial = new Q4();
 		
-		Q5 ss = new Q5();
-		
-		ss.subString("computer", 4);
+		factorial.factorial(10);
 		
 	}
 

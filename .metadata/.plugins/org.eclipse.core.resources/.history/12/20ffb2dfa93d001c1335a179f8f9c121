@@ -16,17 +16,9 @@ public class Driver {
 //		
 //		f.Fib(25);
 		
-//		Q3 r = new Q3();
-//		
-//		r.reverseString();
+		Q3 r = new Q3();
 		
-//		Q4 fact = new Q4();
-//		
-//		fact.factorial(10);
-		
-		Q5 ss = new Q5();
-		
-		ss.subString("computer", 4);
+		r.reverseString();
 		
 	}
 
