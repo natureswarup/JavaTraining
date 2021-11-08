@@ -1,0 +1,15 @@
+package Project2;
+
+import java.util.ArrayList;
+
+public class Q8 {
+
+	
+	public static void Palindromes() {
+		ArrayList names = new ArrayList<>();
+		
+		names.add("Matt", "John");
+		
+		System.out.println(names);
+	}
+}

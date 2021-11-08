@@ -1,0 +1,18 @@
+package Project2;
+
+public class Q6 {
+	
+	public static void isEven(int n) {
+		int numMultiplyByTwo = n*2;
+		int numDivideByTwo = numMultiplyByTwo/2;
+		
+		if (n == numDivideByTwo) {
+			System.out.println(n + " is an even number");
+		} else {
+			System.out.println(n + " is an odd number");
+		}
+		
+		
+	}
+
+}

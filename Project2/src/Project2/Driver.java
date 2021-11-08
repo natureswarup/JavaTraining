@@ -1,5 +1,7 @@
 package Project2;
 
+
+
 public class Driver {
 
 	public static void main(String[] args) {
@@ -24,9 +26,30 @@ public class Driver {
 //		
 //		fact.factorial(10);
 		
-		Q5 ss = new Q5();
+//		Q5 ss = new Q5();
+//		
+//		ss.subString("computer", 4);
 		
-		ss.subString("computer", 4);
+//		Q6 number = new Q6();
+//		
+//		number.isEven(23);
+//		
+		
+//		Q7 test = new Q7();
+//		test.Compare();
+		
+		
+//		Q8 pal = new Q8();
+//		
+//		pal.Palindromes();
+		
+//		Q9 list = new Q9();
+//		
+//		list.PrimeNums();
+		
+//			Q10 t = new Q10();
+//			
+//			t.ternary(10, 15);
 		
 	}
 

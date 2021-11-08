@@ -3,9 +3,9 @@ package Project2;
 public class Q4 {
 
 	
-	public void factorial(int n) {
+	public void factorial(int num) {
 		
-		int num = n;
+		
 		long factorial = 1;
 		
 		for (int i =1; i<=num; i++) {

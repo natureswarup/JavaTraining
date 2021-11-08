@@ -1,0 +1,22 @@
+package Project2;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Q8 {
+
+	
+	public static void Palindromes() {
+		ArrayList<String> names = new ArrayList<>();
+		ArrayList<String> palNames = new ArrayList<>();
+		
+		Collections.addAll(names, "karan", "madam", "tom", "civic", "radar", "jimmy", "kayak", "john", "refer", "billy", "did");
+		
+		
+		for (int i=0; i<names.length; i++) {
+			System.out.println(names[i]);
+		}
+		
+		
+	}
+}

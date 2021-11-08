@@ -1,0 +1,16 @@
+package Project2;
+
+import java.util.ArrayList;
+
+public class Q9 {
+
+	public static void PrimeNums() {
+		ArrayList<Integer> numbers = new ArrayList<>();
+		
+		for (int i=1; i<numbers.size(); i++) {
+			numbers.add(i);
+		}
+		
+		System.out.println(numbers);
+	}
+}

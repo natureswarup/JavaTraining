@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
+    <fullyQualifiedTypeName name="Project2.Q2"/>
+    <fullyQualifiedTypeName name="Project2.Q3"/>
+    <fullyQualifiedTypeName name="Project2.Q4"/>
+    <fullyQualifiedTypeName name="Project2.Q5"/>
+    <fullyQualifiedTypeName name="Project2.Q6"/>
+    <fullyQualifiedTypeName name="javax.xml.stream.events.Namespace"/>
+    <fullyQualifiedTypeName name="Project2.Q8"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.InternalError"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="Project2.Q10"/>
+</qualifiedTypeNameHistroy>
