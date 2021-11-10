@@ -17,4 +17,11 @@
     <fullyQualifiedTypeName name="java.lang.InternalError"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="Project2.Q10"/>
+    <fullyQualifiedTypeName name="MyPackage.Q7"/>
+    <fullyQualifiedTypeName name="Project2.Q7"/>
+    <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
+    <fullyQualifiedTypeName name="Package2.Numbers"/>
+    <fullyQualifiedTypeName name="Project2.Q11"/>
+    <fullyQualifiedTypeName name="Project2.Q12"/>
+    <fullyQualifiedTypeName name="Project2.Q13"/>
 </qualifiedTypeNameHistroy>

@@ -51,6 +51,31 @@ public class Driver {
 //			
 //			t.ternary(10, 15);
 		
+		
+//		Q11 q11 = new Q11();
+//		
+//		q11.printNums();
+		
+//		Q12 q12 = new Q12();
+//		
+//		q12.PrintEvenNum();
+//		
+//		Q13 q13 = new Q13();
+//		
+//		q13.printTriange(5);
+		
+		
+		
+		
+//		Q15Class calculator = new Q15Class();
+//		System.out.println(calculator.addition(1, 1));
+		
+//		Q16 q16 = new Q16();
+		
+		
+
+		
+
 	}
 
 }

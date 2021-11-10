@@ -1,0 +1,18 @@
+package Project2;
+
+public class Q13 {
+	
+	public static void printTriange(int n) {
+		
+		
+		for (int i=1; i<=n; i++) {
+			for (int j=i;j<=i; ++j) {
+				System.out.println(j + " ");
+			}
+			System.out.println();
+			
+		}
+		
+	}
+
+}
